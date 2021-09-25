@@ -1,0 +1,13 @@
+Các l?nh git dã h?c:
+- git init: Kh?i t?o 1 git repository 1 project m?i ho?c dã có.
+- git add . : Thêm thay d?i d?n stage/index trong thu m?c làm vi?c.
+- git commit -m “first commit”... : commit nghia là m?t action d? Git luu l?i m?t snapshot c?a các s? thay d?i trong thu m?c làm vi?c. 
+Và các t?p tin, thu m?c du?c thay d?i dã ph?i n?m trong Staging Area. M?i l?n commit nó s? du?c luu l?i l?ch s? ch?nh s?a c?a code kèm theo tên và d?a ch? email c?a ngu?i commit. 
+Ngoài ra trong Git b?n cung có th? khôi ph?c l?i t?p tin trong l?ch s? commit c?a nó d? chia cho m?t branch khác, vì v?y b?n s? d? dàng khôi ph?c l?i các thay d?i tru?c dó.
+- git status: Ð? check tr?ng thái c?a nh?ng file b?n dã thay d?i trong thu m?c làm vi?c.
+- git pull: Ð? t?i code m?i nh?t v? máy.
+- git push origin master: Ð?y các xác nh?n trong nhánh c?c b? có tên master vào di?u khi?n t? xa có tên Origin.
+- git clone: Copy 1 git repository t? remote source.
+- git config: Ð? set user name và email c?a b?n trong main configuration file.
+- git remote: Ð? check remote/source b?n có ho?c add thêm remote
+- git branch: Li?t kê t?t c? các branch (nhánh).
